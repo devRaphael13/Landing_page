@@ -137,7 +137,7 @@ nav ul div {
     background-color: #e5e7eb;
     color: #1f2937;
     font-size: 36px;
-    padding: 80px 220px 80px 220px;
+    padding: 80px 220px;
 }
 
 .quote_section strong {
@@ -146,3 +146,28 @@ nav ul div {
     text-align: end;
 }
 
+
+.cta_section {
+    display: flex;
+    justify-content: space-between;
+    margin: 70px 170px;
+    padding: 50px 100px;
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-radius: 10px;
+}
+
+.cta_section div h3 {
+    font-weight: 900;
+}
+
+.cta_section a {
+    align-self: flex-end;
+    display: block;
+    color: #f9faf8;
+    border: 2px solid #f9faf8;
+    text-decoration: none;
+    padding: 5px 25px;
+    border-radius: 8px;
+    font-weight: 700;
+}
