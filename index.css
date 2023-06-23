@@ -133,3 +133,16 @@ nav ul div {
     border-radius: inherit;
 } */
 
+.quote_section {
+    background-color: #e5e7eb;
+    color: #1f2937;
+    font-size: 36px;
+    padding: 80px 220px 80px 220px;
+}
+
+.quote_section strong {
+    font-weight: 600;
+    display: block;
+    text-align: end;
+}
+
