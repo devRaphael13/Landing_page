@@ -117,6 +117,7 @@ nav ul div {
 .card p {
     color: #1f2937;
     width: 175px;
+    font-size: large;
 }
 
 .card div {
@@ -136,21 +137,27 @@ nav ul div {
 .quote_section {
     background-color: #e5e7eb;
     color: #1f2937;
-    font-size: 36px;
     padding: 80px 220px;
 }
 
+.quote_section p {
+    font-size: x-large;
+    font-style: italic;
+}
+
 .quote_section strong {
+    margin-top: 16px;
     font-weight: 600;
     display: block;
     text-align: end;
+    font-size: 20px;
 }
 
 
 .cta_section {
     display: flex;
     justify-content: space-between;
-    margin: 70px 170px;
+    margin: 100px 170px;
     padding: 50px 100px;
     background-color: #3882f6;
     color: #f9faf8;
@@ -175,6 +182,6 @@ nav ul div {
 footer {
     color: #e5e7eb;
     text-align: center;
-    padding-top: 16px;
-    padding-bottom: 16px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
