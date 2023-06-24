@@ -1,2 +1,2 @@
 # Landing_page
-Just a landing page in CSS
+Just a landing page with HTML and CSS
